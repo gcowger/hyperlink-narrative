@@ -38,3 +38,11 @@ ul.choices li a:hover {
 	color: cyan;
 	background-color: #2e3d28;
 }
+
+img {
+	paddding: 20px;
+}
+
+img:hover {
+	background: #ooo;
+}

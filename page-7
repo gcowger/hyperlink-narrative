@@ -13,7 +13,7 @@
     <br><a href="page-4.html">shall we count sheep?</a></p>
 	<ul class="choices">
 		<li><a href="page-4.html">shall we count sheep?</a></li>
-		<li><a href="">oom sha la la</a></li>
+		<li><a href="page-8.html">oom sha la la</a></li>
 	</ul>
 
 	<script src="./assets/js/main.js"></script>

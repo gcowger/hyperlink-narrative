@@ -22,6 +22,7 @@ body.page3 {
 
 body.page8 {
 	background-image: linear-gradient(to bottom, rgb(128,128,175), white);
+	background-attachment: fixed;
 }
 
 p {

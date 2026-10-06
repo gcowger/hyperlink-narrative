@@ -20,6 +20,10 @@ body.page3 {
 	text-align: center;
 }
 
+body.page5 {
+	background-color:rgb(181, 181, 225);
+}
+
 body.page8 {
 	background-image: linear-gradient(to bottom, rgb(128,128,175), white);
 	background-attachment: fixed;

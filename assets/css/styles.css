@@ -6,17 +6,17 @@
 }
 
 body.homepage {
-	background-color:bisque;
+	background-color:white;
 }
 
 body.page2 {
-	background-color:chartreuse; 
+	background-color:rgb(13, 13, 80); 
 }
 
 p a {
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 1.3em;
-	color: red;
+	color: rgb(14, 10, 64);
 	text-decoration: none;
 	font-weight: bold;
 }
@@ -32,7 +32,7 @@ ul.choices {
 }
 
 ul.choices li a {
-	color: red;
+	color: rgb(35, 14, 88);
 	text-decoration: none;
 	font-weight: bold;
 	display: block;

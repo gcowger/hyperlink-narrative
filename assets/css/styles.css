@@ -20,6 +20,10 @@ body.page3 {
 	text-align: center;
 }
 
+body.page8 {
+	background-image: linear-gradient(to bottom, rgb(128,128,175), white);
+}
+
 p {
 	border-top: 2px dotted rgb(118, 46, 131);
 }
@@ -37,6 +41,7 @@ p a:hover {
 	color: dodgerblue;
 	border-bottom: 2px dotted dodgerblue;
 }
+
 
 ul.choices {
 	list-style-type: none;

@@ -70,26 +70,8 @@ p a:hover {
 	border-bottom: 2px dotted dodgerblue;
 }
 
-
-ul.choices {
-	list-style-type: none;
-	width: 90%;
-}
-
-ul.choices li a {
-	color: rgb(118, 46, 131);
-	padding: 15px 18px;
-}
-
-ul.choices li a:hover {
-	color: cyan;
-	background-color: #2e3d28;
-}
-
 img {
 	padding: 100px;
-	border-radius: 10px 40px 5px 0;
-	
 }
 
 img:hover {

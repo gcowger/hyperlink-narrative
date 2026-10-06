@@ -10,11 +10,9 @@
 <br>
 	<p>hm. what now.
     <br>we're not asleep.
-    <br><a href="page-4.html">shall we count sheep?</a></p>
-	<ul class="choices">
-		<li><a href="page-4.html">shall we count sheep?</a></li>
-		<li><a href="page-8.html">oom sha la la</a></li>
-	</ul>
+    <br><a href="page-4.html">shall we count sheep?</a>
+    <br><a href="page-8.html">oom sha la la</a></p>
+
 
 	<script src="./assets/js/main.js"></script>
 </body>

@@ -20,6 +20,10 @@ body.page3 {
 	text-align: center;
 }
 
+p {
+	border-top: 2px dotted rgb(118, 46, 131);
+}
+
 p a {
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 1.3em;

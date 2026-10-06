@@ -54,8 +54,9 @@ ul.choices li a:hover {
 }
 
 img {
-	padding: 80px;
+	padding: 100px;
 	border-radius: 10px 40px 5px 0;
+	
 }
 
 img:hover {

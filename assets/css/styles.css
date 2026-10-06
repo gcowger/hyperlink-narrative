@@ -26,6 +26,7 @@ p a {
 	color: rgb(118, 46, 131);
 	text-decoration: none;
 	font-weight: bold;
+	border-top: 4px solid rgb(118, 46, 131);
 }
 
 p a:hover {

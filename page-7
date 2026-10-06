@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Sleepy Time</title>
+	<link rel="stylesheet" href="./assets/css/styles.css">
+</head>
+
+<body class="page3">
+<br>
+	<p>hm. what now.
+    <br>we're not asleep.
+    <br><a href="page-4.html">shall we count sheep?</a></p>
+	<ul class="choices">
+		<li><a href="page-4.html">shall we count sheep?</a></li>
+		<li><a href="">oom sha la la</a></li>
+	</ul>
+
+	<script src="./assets/js/main.js"></script>
+</body>
+</html>

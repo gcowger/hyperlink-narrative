@@ -44,13 +44,7 @@ ul.choices {
 }
 
 ul.choices li a {
-	color: rgb(35, 14, 88);
-	text-decoration: none;
-	font-weight: bold;
-	display: block;
-	border: 4px dashed #2e3d28; 
-	background-color: cyan;
-	margin: 10px;
+	color: rgb(118, 46, 131);
 	padding: 15px 18px;
 }
 

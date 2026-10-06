@@ -16,12 +16,13 @@ body.page2 {
 body.page3 {
 	background-color: black;
 	color:aliceblue;
+	text-align: center;
 }
 
 p a {
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 1.3em;
-	color: rgb(14, 10, 64);
+	color: rgb(55, 47, 164);
 	text-decoration: none;
 	font-weight: bold;
 }
@@ -53,7 +54,7 @@ ul.choices li a:hover {
 }
 
 img {
-	paddding: 80px;
+	padding: 80px;
 	border-radius: 10px 40px 5px 0;
 }
 

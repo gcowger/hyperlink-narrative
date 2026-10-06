@@ -2,11 +2,12 @@
 
 * {
 	font-family: Helvetica;
-	line-height: 1.4em;
+	line-height: 1.7em;
 }
 
 body.homepage {
 	background-color:white;
+	text-align:center;
 }
 
 body.page2 {
@@ -22,6 +23,9 @@ body.page3 {
 
 body.page5 {
 	background-color:rgb(181, 181, 225);
+	text-align: left;
+	padding-left: 140px;
+	padding-right: 140px;
 }
 
 body.page8 {
@@ -63,6 +67,7 @@ p a {
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 1.3em;
 	color: rgb(118, 46, 131);
+	text-align: center;
 	text-decoration: none;
 	font-weight: bold;
 	border-top: 4px solid rgb(118, 46, 131);

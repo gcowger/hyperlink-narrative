@@ -13,6 +13,11 @@ body.page2 {
 	background-color:rgb(75, 75, 122); 
 }
 
+body.page3 {
+	background-color: black;
+	color:aliceblue;
+}
+
 p a {
 	font-family: 'Courier New', Courier, monospace;
 	font-size: 1.3em;

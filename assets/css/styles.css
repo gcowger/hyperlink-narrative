@@ -1,7 +1,7 @@
 /* styles.css */
 
 * {
-	font-family: Arial;
+	font-family: Helvetica;
 	line-height: 1.4em;
 }
 
@@ -62,7 +62,6 @@ p a {
 	text-decoration: none;
 	font-weight: bold;
 	border-top: 4px solid rgb(118, 46, 131);
-
 }
 
 p a:hover {
